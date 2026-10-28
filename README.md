@@ -1,4 +1,4 @@
-# Aleo673f
+# aleo673f
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aleo673f is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/aleo673f
+> **Retired — merged into [Aleo](https://apis.io/providers/aleo/).** The two records described the same company, and that one is canonical. Nothing in this repository is maintained any more.
+
+**Why:** EquityZen listing slug (equityzen.com/company/aleo673f, "Aleo Stock") harvested as a company name; duplicate of aleo (aleo.org). roadmap#933, approved by Kin 2026-10-09.
+
+**Retired:** 2026-10-09
+
+## Where to go now
+
+The current profile, APIs, artifacts and rating for Aleo are on APIs.io at **[apis.io/providers/aleo/](https://apis.io/providers/aleo/)**.
+
+## Open an issue
+
+Issues about Aleo belong on the canonical profile: [open one on api-evangelist/aleo](https://github.com/api-evangelist/aleo/issues/new). If you think this merge was a mistake — these were really two companies — say so there or email [info@apievangelist.com](mailto:info@apievangelist.com).
